@@ -1,2 +1,2 @@
 # careerguidance
-A psychometric,subjective,logical test for predicting a Career.
+A psychometric,subjective,logical test for predicting a Career.Questionnaires are prepared using existing research papers, many acknowledged sites and a well-designed survey to understand types of questions to be asked to students for understanding their basic Personality and Skills they possess. This is a software tool developed to evaluate the aptitude of the students respectively and provide a proper career guidance for their future.
